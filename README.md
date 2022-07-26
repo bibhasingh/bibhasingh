@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="1000" height="300"/>
+  <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="800" height="300"/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
